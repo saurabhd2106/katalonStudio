@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDrivenTest</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>eb55afa9-ead8-4405-9139-aa7c86f88027</testSuiteGuid>
+   <testCaseLink>
+      <guid>58d4f5b9-2655-4001-811e-27f45e9301ac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Guru99Login/LoginToGuru99AppDataDriven</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d5d78966-584a-4f44-a805-f3c9b067c929</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestDataFromExcel</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>d5d78966-584a-4f44-a805-f3c9b067c929</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserId</value>
+         <variableId>1054c4e3-a291-436e-93c4-101806996409</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d5d78966-584a-4f44-a805-f3c9b067c929</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>UserPass</value>
+         <variableId>0abadcd1-fd8d-4b0d-b531-b7543323376f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

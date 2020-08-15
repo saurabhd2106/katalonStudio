@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginToGuru99AppDataDriven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>714896d5-c3ec-4070-aed2-a7a6d142502d</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData(null)</defaultValue>
+      <description></description>
+      <id>1054c4e3-a291-436e-93c4-101806996409</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>findTestData(null)</defaultValue>
+      <description></description>
+      <id>0abadcd1-fd8d-4b0d-b531-b7543323376f</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
